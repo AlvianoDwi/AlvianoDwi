@@ -9,6 +9,7 @@ Hi guys, I'm **Alviano Dwi Saputra** (16 y.o) from Bekasi, Indonesia. Contact me
 
 ## 🧑‍💻Languages & tools
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/c/c-original.svg" width="32" />
   <img src"https://i.mt.lv/img/mt/v2/logo.svg" width="32" />
   <img src"https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="32" />
   <img src"https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="32" />
