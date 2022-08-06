@@ -14,9 +14,15 @@ Hi guys, I'm **Alviano Dwi Saputra** (16 y.o) from Bekasi, Indonesia. Contact me
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/visualstudio/visualstudio-plain.svg" width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/mongodb/mongodb-original.svg" width="32" />
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaG1uQ2fRN0KtNNjXX8-G95tAEZaoDlZ6IhsmyzcazJOKrnKAYNqkf5uqY99ojOQX9rSCFtMyNCYiASx7fZrmclEve8AEV4uL5-9Es21tvJVABpuv0l_EROr18YMJD79wxlOUMo7uFAyhLCshzapuTmht9Cnbs-b01W9I-8drt6GXBgNfyXwUeXJoVKg/w525-h296-c-rw/linux.png" width="32" />
-  <img src="https://e7.pngegg.com/pngimages/866/781/png-clipart-mikrotik-routeros-hewlett-packard-ubiquiti-networks-mikrotik-routeros-hack-computer-network-text.png" width="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Font_Awesome_5_brands_linux.svg" width="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" width="32" />
   <img src="https://e7.pngegg.com/pngimages/391/189/png-clipart-round-white-and-blue-logo-illustration-mikrotik-routeros-computer-icons-computer-network-others-miscellaneous-blue-thumbnail.png" width="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" width="32" />
+  <img src="" width="32" />
+  <img src="" width="32" />
+  <img src="" width="32" />
+  <img src="" width="32" />
   <img src="" width="32" />
 </div>
 
