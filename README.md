@@ -1,3 +1,5 @@
+# Hello there 👋
+
 Hi guys, I'm **Alviano Dwi Saputra** (16 y.o) from Bekasi, Indonesia. Contact me if you have same interesting or some questions!
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Network Engineer, Lua
@@ -22,13 +24,12 @@ Hi guys, I'm **Alviano Dwi Saputra** (16 y.o) from Bekasi, Indonesia. Contact me
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" width="32" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="32" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/TP-LINK_logo.svg" width="32" />
-  <img src="" width="32" />
-  <img src="" width="32" />
-  <img src="" width="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_Server_2012_logo.svg" width="32" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" width="32" />
 </div>
 
 ## 💻 Connect with me
-[![Instagram]](https://instagram.com/nv.yann)
+[[Instagram]](https://instagram.com/nv.yann)
 [![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/nv.yann)
 
 <!--
