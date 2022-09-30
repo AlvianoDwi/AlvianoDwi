@@ -1,4 +1,4 @@
-# Hello there 👋
+<h1 align="center">Hi 👋, I'm Alviano Dwi Saputra (AKA: Vian)</h1>
 
 Hi guys, I'm **Alviano Dwi Saputra** (16 y.o) from Bekasi, Indonesia. Contact me if you have same interesting or some questions!
 - 🔭 I’m currently working on something cool.
@@ -9,28 +9,33 @@ Hi guys, I'm **Alviano Dwi Saputra** (16 y.o) from Bekasi, Indonesia. Contact me
 - 📫 How to reach me: [Instagram](https://instagram.com/nvv.yann), [Email](mailto:alvianodwi9@gmail.com)
 - ⚡ Fun fact: I don't like going out of the house and crowds
 
-## 🧑‍💻Languages & tools
-<div align="left">
-  <img src="https://i.mt.lv/img/mt/v2/logo.svg" width="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/visualstudio/visualstudio-plain.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/vscode/vscode-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/mongodb/mongodb-original.svg" width="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Font_Awesome_5_brands_linux.svg" width="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" width="32" />
-  <img src="https://e7.pngegg.com/pngimages/391/189/png-clipart-round-white-and-blue-logo-illustration-mikrotik-routeros-computer-icons-computer-network-others-miscellaneous-blue-thumbnail.png" width="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" width="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/TP-LINK_logo.svg" width="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_Server_2012_logo.svg" width="32" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" width="32" />
-</div>
+<a href="https://discord.com/users/980875212537090128">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/980875212537090128.png" />
+</a>
+
+### Languages and Tools:
+<p align="left">
+<img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
+<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
+<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Lua?style=for-the-badge&logo=lua" />
+</p>
+<br />
 
 ## 💻 Connect with me
 [[Instagram]](https://instagram.com/nv.yann)
 [![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/nv.yann)
+
+### Discord Status
+<a href="https://discord.com/users/980875212537090128">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/980875212537090128.png" />
+</a>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+</br>
+<img align="center" alt="Alviano's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlvianoDwi&show_icons=true&locale=en&theme=dark&layout=compact" />
 
 <!--
 **AlvianoDwi/AlvianoDwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
