@@ -7,7 +7,6 @@ Hi guys, I'm **Alviano Dwi Saputra** (16 y.o) from Bekasi, Indonesia. Contact me
 - 🤔 I’m looking for help with **GTA V Server**
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Instagram](https://instagram.com/nvv.yann), [Email](mailto:alvianodwi9@gmail.com)
-- ⚡ Fun fact: I don't like going out of the house and crowds
 
 ### Languages and Tools:
 <p align="left">
@@ -15,7 +14,6 @@ Hi guys, I'm **Alviano Dwi Saputra** (16 y.o) from Bekasi, Indonesia. Contact me
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/Lua?style=for-the-badge&logo=lua" />
 </p>
 <br />
 
