@@ -23,13 +23,9 @@ Hi guys, I'm **Alviano Dwi Saputra** (16 y.o) from Bekasi, Indonesia. Contact me
 </p>
 <br />
 
-## 💻 Connect with me
-[[Instagram]](https://instagram.com/nv.yann)
-[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/nv.yann)
-
 ### Discord Status
-<a href="https://discord.com/users/980875212537090128">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/980875212537090128.png" />
+<a href="https://discord.com/users/497968943802220565">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/497968943802220565.png" />
 </a>
 
 <details>
