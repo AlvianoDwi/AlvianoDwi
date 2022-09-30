@@ -9,8 +9,8 @@ Hi guys, I'm **Alviano Dwi Saputra** (16 y.o) from Bekasi, Indonesia. Contact me
 - 📫 How to reach me: [Instagram](https://instagram.com/nvv.yann), [Email](mailto:alvianodwi9@gmail.com)
 - ⚡ Fun fact: I don't like going out of the house and crowds
 
-<a href="https://discord.com/users/980875212537090128">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/980875212537090128.png" />
+<a href="https://discord.com/users/497968943802220565">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/497968943802220565.png" />
 </a>
 
 ### Languages and Tools:
