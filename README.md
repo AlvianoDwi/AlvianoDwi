@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alviano Dwi Saputra (AKA: Vian)</h1>
 
-Hi guys, I'm **Alviano Dwi Saputra** (16 y.o) from Bekasi, Indonesia. Contact me if you have same interesting or some questions!
+Hi guys, I'm **Alviano Dwi Saputra** (18 y.o) from Bekasi, Indonesia. Contact me if you have same interesting or some questions!
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Network Engineer, Lua
-- 👯 I’m looking to collaborate on **GTA V FiveM**
-- 🤔 I’m looking for help with **GTA V Server**
+- 👯 I’m looking to collaborate on **FiveM**
+- 🤔 I’m looking for help with **FiveM Server**
 - 💬 Ask me about anything.
 - 📫 How to reach me: [Instagram](https://instagram.com/nvv.yann), [Email](mailto:alvianodwi9@gmail.com)
 
